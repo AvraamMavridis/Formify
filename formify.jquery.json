@@ -6,7 +6,7 @@
         "form",
         "input"
     ],
-    "version": "0.0.1",
+    "version": "0.1.1",
     "author": {
         "name": "Avraam Mavridis",
         "url": "https://github.com/AvraamMavridis",
@@ -25,10 +25,10 @@
             "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
         }
     ],
-    "bugs": "https://github.com/AvraamMavridis/formify/issues",
-    "homepage": "http://avraammavridis.github.io/formify/",
-    "docs": "https://github.com/AvraamMavridis/formify",
-    "download": "https://github.com/AvraamMavridis/formify",
+    "bugs": "https://github.com/AvraamMavridis/Formify/issues",
+    "homepage": "http://avraammavridis.github.io/Formify/",
+    "docs": "https://github.com/AvraamMavridis/Formify",
+    "download": "https://github.com/AvraamMavridis/Formify",
     "dependencies": {
         "jquery": ">=1.5"
     }

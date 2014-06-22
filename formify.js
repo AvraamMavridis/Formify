@@ -1,6 +1,11 @@
+/** Author Avraam Mavridis
+	contact avr.mav@gmail.com
+	June-2014
+	**/
+
+
+
 $.fn.formify = function(){
-
-
 	
 	var inputs = this.find(".formify");
 	

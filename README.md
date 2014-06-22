@@ -26,6 +26,8 @@ use the plugin like:
 
 `$(".form4").formify({"backgroundImage":10,"backgroundColor":"#FF0F0F"});`
 
+![alt tag](https://raw.githubusercontent.com/AvraamMavridis/formify/master/formifyscreenshot.png)
+
 
 ## Parameters
 

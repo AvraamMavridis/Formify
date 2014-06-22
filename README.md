@@ -11,14 +11,23 @@ Include **formify.min.js** or **formify.js** on your html file after you include
 Create a form with a class or id, all the inputs of the form should have the same size and class="formify".
 
 `<form class="form4">
+
 <input class="formify" type="text" style="width:200px">
+
 <input class="formify" type="password" style="width:200px">
+
 <input class="formify" type="date" style="width:200px">
+
 <select class="formify" style="width:200px">
+
   <option value="volvo">Volvo</option>
+
   <option value="saab">Saab</option>
+
   <option value="opel">Opel</option>
+
   <option value="audi">Audi</option>
+
 </select>`
 
 use the plugin like:
@@ -32,21 +41,18 @@ use the plugin like:
 
 There are 10 different background on the image folder, you can use the passing the number of the background as parameter to the plugin, or you can use your own by adding an image to the folder, name the image like background11 and pass 11 to the plugin as parameter
 
-### height (optional, default 300px)
+### backgroundColor (optional, default black)
 
-The height of the photo
+The background color that is used for the effect when the field is not focused.
 
-### numberOfPhotos (optional, maximum 20)
+### onfucusOpacity (optional, default 1)
 
-The number of the photos that you want to add 
+The opacity of the fields when they are focused.
 
-### backgroundcolor (optional, default #fa6925)
+### onblurOpacity (optional, default 0.1)
 
-Background of the image
+The opacity of the fields when they are not focused
 
-### borderradious (optional, default 100)
-
-Border radious of the image
 
 
 

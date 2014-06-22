@@ -10,14 +10,10 @@ Include **formify.min.js** or **formify.js** on your html file after you include
 
 Create a form with a class or id, all the inputs of the form should have the same size and class="formify".
 
-´´´<form class="form4">
-
+```<form class="form4">
 <input class="formify" type="text" style="width:200px">
-
 <input class="formify" type="password" style="width:200px">
-
 <input class="formify" type="date" style="width:200px">
-
 <select class="formify" style="width:200px">
 
   <option value="volvo">Volvo</option>
@@ -28,7 +24,7 @@ Create a form with a class or id, all the inputs of the form should have the sam
 
   <option value="audi">Audi</option>
 
-</select>´´´
+</select>```
 
 use the plugin like:
 

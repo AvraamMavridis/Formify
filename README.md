@@ -20,6 +20,7 @@ Create a form with a class or id, all the inputs of the form should have the sam
         <option value="opel">Opel</option>
         <option value="audi">Audi</option>
      </select>
+     </form>
 
 use the plugin like:
 
